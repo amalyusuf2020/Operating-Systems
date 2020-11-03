@@ -1,0 +1,1 @@
+Operating system helps with transferring of programs in and out of memory.
